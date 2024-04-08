@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="217cfffd-78b9-4d99-b0ca-45d8fd36a45b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP-PZ4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework/Programm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/DepartmentRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/EmployeeRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/CreditAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/DebitAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Enitity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/PersonalData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Programm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Transaction.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2efumUDZqJ1aMlaJdCeOzMlAlhr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/GeekBrains/10. Объектно-ориентированное программирование/8. ПЗ 4/OOP-PZ4-DZ",
+    "onboarding.tips.debug.path": "C:/GeekBrains/10. Объектно-ориентированное программирование/8. ПЗ 4/OOP-PZ4/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="217cfffd-78b9-4d99-b0ca-45d8fd36a45b" name="Changes" comment="" />
+      <created>1712308115196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712308115196</updated>
+    </task>
+    <servers />
+  </component>
+</project>
